@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
 <h3 align="center">DevOps Developer / Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c6deab2f711f5000f9f6fc6e38a4f413ed50392c11a2938a351155cb137c6c81/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36362f38332f33652f36363833336530376436666239656235643732346534376430633831343238352e6769663f7261773d74727565">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameddyasser&label=Profile%20views&color=0e75b6&style=flat" alt="mohameddyasser" /> </p>
 
